@@ -1,0 +1,15 @@
+{
+    "position": {
+        "Missing": 0,
+        "Goalkeeper": 1,
+        "Defender": 2,
+        "Midfield": 3,
+        "Attack": 4
+    },
+    "foot": {
+        "right": 0,
+        "left": 1,
+        "both": 2,
+        "Unknown": 3
+    }
+}
